@@ -1,0 +1,14 @@
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\bin\Debug\netcoreapp3.1\demogarbagecollector.exe
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\bin\Debug\netcoreapp3.1\demogarbagecollector.deps.json
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\bin\Debug\netcoreapp3.1\demogarbagecollector.runtimeconfig.json
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\bin\Debug\netcoreapp3.1\demogarbagecollector.runtimeconfig.dev.json
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\bin\Debug\netcoreapp3.1\demogarbagecollector.dll
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\bin\Debug\netcoreapp3.1\demogarbagecollector.pdb
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.csproj.AssemblyReference.cache
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.AssemblyInfoInputs.cache
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.AssemblyInfo.cs
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.csproj.CoreCompileInputs.cache
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.dll
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.pdb
+C:\Users\LRUDAE\Desktop\c#\demogarbagecollector\demogarbagecollector\obj\Debug\netcoreapp3.1\demogarbagecollector.genruntimeconfig.cache
