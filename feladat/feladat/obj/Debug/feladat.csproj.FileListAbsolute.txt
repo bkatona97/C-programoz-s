@@ -1,0 +1,8 @@
+E:\c#prog\okt20\feladat\feladat\bin\Debug\feladat.exe.config
+E:\c#prog\okt20\feladat\feladat\bin\Debug\feladat.exe
+E:\c#prog\okt20\feladat\feladat\bin\Debug\feladat.pdb
+E:\c#prog\okt20\feladat\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+E:\c#prog\okt20\feladat\feladat\obj\Debug\feladat.csproj.SuggestedBindingRedirects.cache
+E:\c#prog\okt20\feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+E:\c#prog\okt20\feladat\feladat\obj\Debug\feladat.exe
+E:\c#prog\okt20\feladat\feladat\obj\Debug\feladat.pdb
