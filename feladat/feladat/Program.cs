@@ -46,6 +46,7 @@ namespace feladat
             {
                 Console.WriteLine(par.Key+":"+par.Value);
             }
+            //Félig van kész bírtam őket csoportosítani de nem lett kész
             /*Console.WriteLine("5. feladat");
             Console.WriteLine("Előtte:");
             foreach (var szo in szok)
