@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRUDAE\\Desktop\\c#\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj": {}
+    "C:\\Users\\Bandi\\source\\repos\\C-programoz-s\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRUDAE\\Desktop\\c#\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj": {
+    "C:\\Users\\Bandi\\source\\repos\\C-programoz-s\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRUDAE\\Desktop\\c#\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj",
+        "projectUniqueName": "C:\\Users\\Bandi\\source\\repos\\C-programoz-s\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj",
         "projectName": "demogarbagecollector",
-        "projectPath": "C:\\Users\\LRUDAE\\Desktop\\c#\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj",
-        "packagesPath": "C:\\Users\\LRUDAE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRUDAE\\Desktop\\c#\\demogarbagecollector\\demogarbagecollector\\obj\\",
+        "projectPath": "C:\\Users\\Bandi\\source\\repos\\C-programoz-s\\demogarbagecollector\\demogarbagecollector\\demogarbagecollector.csproj",
+        "packagesPath": "C:\\Users\\Bandi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bandi\\Source\\Repos\\C-programoz-s\\demogarbagecollector\\demogarbagecollector\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LRUDAE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Bandi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
