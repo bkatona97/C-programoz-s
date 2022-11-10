@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -76,7 +76,6 @@ namespace formos
         private void button2_Click(object sender, EventArgs e)
         {
             Random r = new Random();
-            //List<Fizetes> szamok = new List<Fizetes>();//r.Next(200000, 5500000)
             List<double> szamok = new List<double>();
             for (int i = 0; i < 100000; i++)
             {
@@ -94,45 +93,47 @@ namespace formos
             textBox1.Text = time.ToString();
             List<double> beolv = new List<double>();
             a = DateTime.Now;
-            XmlTextReader reader=new XmlTextReader("fizetes.xml");
-            while (reader.Read())
+            using (XmlTextReader reader = new XmlTextReader("fizetes.xml"))
             {
-                switch (reader.NodeType)
+                while (reader.Read())
                 {
-                    case XmlNodeType.Text:
-                        {
-                            beolv.Add(Convert.ToDouble(reader.Value));
-                            break;
-                        }
-                    default:
-                        {
-                            beolv.Add(0);
-                            //listBox1.Items.Add("hiba");
-                            break;
-                        }                
+                    switch (reader.NodeType)
+                    {
+                        case XmlNodeType.Text:
+                            {
+                                beolv.Add(Convert.ToDouble(reader.Value));
+                                break;
+                            }
+                        default:
+                            {
+                                beolv.Add(0);
+                                break;
+                            }
+                    }
                 }
-            }
+            }   
             b = DateTime.Now;
             time = b - a;
             textBox2.Text = time.ToString();
             List<double> novelt = new List<double>();
             a = DateTime.Now;
-            XmlTextReader reader2 = new XmlTextReader("fizetes.xml");
-            while (reader2.Read())
+            using(XmlTextReader reader2 = new XmlTextReader("fizetes.xml"))
             {
-                switch (reader2.NodeType)
+                while (reader2.Read())
                 {
-                    case XmlNodeType.Text:
-                        {
-                            novelt.Add(Convert.ToDouble(reader2.Value));
-                            break;
-                        }
-                    default:
-                        {
-                            beolv.Add(0);
-                            //listBox1.Items.Add("hiba2");
-                            break;
-                        }
+                    switch (reader2.NodeType)
+                    {
+                        case XmlNodeType.Text:
+                            {
+                                novelt.Add(Convert.ToDouble(reader2.Value));
+                                break;
+                            }
+                        default:
+                            {
+                                beolv.Add(0);
+                                break;
+                            }
+                    }
                 }
             }
             for(int i = 0; i < novelt.Count; i++)
