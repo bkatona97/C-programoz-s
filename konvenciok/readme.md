@@ -7,3 +7,4 @@
 - Private vagy Internal mezőknél(fields) hasznájunk camelCase-t(kicsi kezdőbetű és egy "_" az elején ezen kívűl minden szó nagybetű).
 - Statikus mezőknél amik private-k vagy internal-ok kezdjük a változó nevet s -el és azt követően alsó vonással. ThreadSttic esetén hasnlóan de s helyett t-t írjunk.
 - Method-oknál camelCasing.
+- bővebben: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
