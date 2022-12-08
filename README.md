@@ -6,7 +6,7 @@ Mivel régen használtam c#-ot úgy gondoltam hogy codewars-al könnyen feltudom
 Egyenlőre nem különösebben írtam kódot csak ismerkedek a használatával.
 >https://csharptutorial.hu/docs/hellovilag-hellocsharp/8-nyelvi-szolgaltatasok/linq-alap-muveletek/
 
-- [x] automatikus szemétgyűjtő
+ - [x] automatikus szemétgyűjtő
  - [x] github - mappákba rendezés
  - [x] nyelvi elemek - gyakorlás
  - [x] fájlkezelés json, xml, text, csv, bin
@@ -15,8 +15,8 @@ Egyenlőre nem különösebben írtam kódot csak ismerkedek a használatával.
  - [ ] beadandó
 
 Másik repok:
->https://github.com/bkatona97/feladat
+ >https://github.com/bkatona97/feladat
 Adatbázisos repo.
->https://github.com/bkatona97/zh_05_11/tree/main
+ >https://github.com/bkatona97/zh_05_11/tree/main
 
 
