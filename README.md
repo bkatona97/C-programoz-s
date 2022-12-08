@@ -11,9 +11,11 @@ Egyenlőre nem különösebben írtam kódot csak ismerkedek a használatával.
  - [x] nyelvi elemek - gyakorlás
  - [x] fájlkezelés json, xml, text, csv, bin
  - [x] grafikus felület - random user és adatai
- - [ ] adatbázis (SQLight, MariaDB)
+ - [x] adatbázis (SQLight, MariaDB)
  - [ ] beadandó
 
-másik repo
+másik repok
 >https://github.com/bkatona97/feladat
+>https://github.com/bkatona97/zh_05_11/tree/main
+
 
