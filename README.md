@@ -14,6 +14,7 @@ Egyenlőre nem különösebben írtam kódot csak ismerkedek a használatával.
  - [x] adatbázis (SQLight, MariaDB)
  - [ ] beadandó
 
-
-
-
+Másik repok:
+ >https://github.com/bkatona97/feladat
+Adatbázisos repo.
+ >https://github.com/bkatona97/zh_05_11/tree/main
