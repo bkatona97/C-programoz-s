@@ -16,6 +16,7 @@ Egyenlőre nem különösebben írtam kódot csak ismerkedek a használatával.
 
 másik repok
 >https://github.com/bkatona97/feladat
+adatbázisos repo
 >https://github.com/bkatona97/zh_05_11/tree/main
 
 
