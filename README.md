@@ -19,5 +19,5 @@ Másik repok:
 
 
 
-Adatbázisos repo.
+Adatbázisos repo(main-program1 branch).
  >https://github.com/bkatona97/zh_05_11/tree/main
